@@ -1,4 +1,7 @@
 # Testanto API AWESOME
+
+DEPLOY: https://api-awesome-responsive.vercel.app/
+
 Cotações de Moedas em tempo real, front-end 100% responsivo
 
 USD-BRL , EUR-BRL , BTC-BRL
