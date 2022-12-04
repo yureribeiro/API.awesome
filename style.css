@@ -1,0 +1,81 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  width: 100vw;
+  background-image: url(./images/1280369.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center !important;
+  font-family: 'Roboto';
+}
+
+.container {
+  flex-wrap: nowrap ;
+  margin: 0 0.8rem ;
+  border: .1rem solid rgba(226, 226, 226, 0.21);
+  border-radius: 0.4rem;
+  padding: 1.4rem;
+  background-color: rgba(2, 6, 15, 0.356);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  color: #ffff;
+}
+
+h1{
+  display: flex;
+  justify-content: center;
+  color:rgba(245, 247, 250, );
+}
+
+.dolar {
+  margin: 0.8rem 0;
+  padding: 1rem 1rem ;
+  border: .1rem solid rgba(226, 226, 226, 0.21);
+  border-radius: 0.4rem;
+}
+#title{
+  color: rgba(16, 200, 247, 0.671);
+}
+
+
+.euro {
+  margin: 0.8rem 0;
+  padding: 1rem 1rem;
+  border: .1rem solid rgba(226, 226, 226, 0.21);
+  border-radius: 0.4rem;
+}
+#title-eur {
+  color: rgba(16, 200, 247, 0.671);
+}
+
+
+.bitcoin {
+  margin: 0.5rem 0;
+  padding: 1rem 1rem;
+  border: .1rem solid rgba(226, 226, 226, 0.21);
+  border-radius: 0.4rem;
+}
+#title-btc {
+  color: rgba(16, 200, 247, 0.671);
+}
+
+
+#date{
+  padding: 0.4rem 0;
+}
+#value {
+  padding: 0.4rem 0;
+}
+.nome {
+  margin-top: 3rem;
+  color: #ffff;
+}
+
