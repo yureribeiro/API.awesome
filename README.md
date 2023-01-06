@@ -2,7 +2,7 @@
 
 DEPLOY: https://api-awesome-responsive.vercel.app/
 
-Cotações de Moedas em tempo real, front-end 100% responsivo
+Cotações de Moedas em tempo real.
 
 USD-BRL , EUR-BRL , BTC-BRL
 
